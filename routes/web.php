@@ -51,3 +51,7 @@ Route::get('/crop/rotation', function () {
     return view('crop/rotation');
 });
 
+Route::get('/building', function () {
+    return view('building/building');
+});
+
