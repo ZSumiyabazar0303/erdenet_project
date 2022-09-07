@@ -1,4 +1,4 @@
-<div class="bg-gradient-to-r from-sky-500 to-sky-700">
+<div class="bg-gradient-to-r from-sky-500 to-sky-700 h-[7%]">
     <div class="py-3 px-6">
         <div class="flex justify-between">
             <div class="flex items-center h-10">
